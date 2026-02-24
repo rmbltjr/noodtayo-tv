@@ -1,14 +1,14 @@
 [ 
   {
-      "name": "AMC Presents",
-      "logo": "https://yourcdn.com/logos/untv.png",
+      "name": "CNA",
+      "logo": "https://i.imgur.com/T2pED0d.png",
       "category": "Movies",
       "dateAdded": "2026-02-20",
-      "streamUrl": "https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8"
+      "streamUrl": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
     },
     {
       "name": "Animal Planet HD",
-      "logo": "https://yourcdn.com/logos/hbo.png",
+      "logo": "https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png",
       "category": "Documentary",
       "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd",
       "drm": {
@@ -17,7 +17,7 @@
     },
     {
       "name": "Kapamilya Channel",
-      "logo": "https://yourcdn.com/logos/hbo.png",
+      "logo": "https://i.imgur.com/JjtDnJk.png",
       "category": "Entertainment",
       "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd",
       "drm": {
@@ -26,7 +26,7 @@
     },
     {
       "name": "ALLTV2",
-      "logo": "https://yourcdn.com/logos/untv.png",
+      "logo": "https://i.imgur.com/4cPmue7.png",
       "category": "Entertainment",
       "dateAdded": "2026-02-20",
       "streamUrl": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"

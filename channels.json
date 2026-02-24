@@ -14,5 +14,14 @@
       "drm": {
         "df81f15150f74c799fdde64ef49dfb75": "05794a012ae74d77953f2b9fae6804c7"
       }
+    },
+    {
+      "name": "Kapamilya Channel",
+      "logo": "https://yourcdn.com/logos/hbo.png",
+      "category": "Entertainment",
+      "streamUrl": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd",
+      "drm": {
+        "bd17afb5dc9648a39be79ee3634dd4b8": "3ecf305d54a7729299b93a3d69c02ea5"
+      }
     }
 ]

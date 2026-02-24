@@ -30,5 +30,39 @@
       "category": "Entertainment",
       "dateAdded": "2026-02-20",
       "streamUrl": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+    },
+      {
+      "name": "HBO",
+      "logo": "https://yourcdn.com/logos/hbo.png",
+      "category": "Movies",
+      "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd",
+      "drm": {
+        "a098896d2b11c5f3906a993c3ba5c610": "f3f842c54cc96cbbd0bcb96a4cb8a813"
+      }
+    },
+    {
+      "name": "HBO Hits",
+      "logo": "https://yourcdn.com/logos/hbo.png",
+      "category": "Movies",
+      "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd",
+      "drm": {
+        "5d600eb70944d681c26c1f48fbe61f10": "796139ba05a2ab425f978c7fd98b4372"
+      }
+    },
+    {
+      "name": "HBO Family",
+      "logo": "https://yourcdn.com/logos/hbo.png",
+      "category": "Movies",
+      "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd",
+      "drm": {
+        "2b9ff7cc1a3dc9fef47cc5773472d510": "7e37588e893ab9252e505bd6dda35beb"
+      }
+    },
+    {
+      "name": "Star Movies",
+      "logo": "https://yourcdn.com/logos/untv.png",
+      "category": "Movies",
+      "dateAdded": "2026-02-20",
+      "streamUrl": "http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extension=ts&play_token=BRpcwJlxdl"
     }
 ]

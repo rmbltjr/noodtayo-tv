@@ -19,7 +19,8 @@
       "name": "GMA 7",
       "logo": "https://i.imgur.com/Cu1tAY8.png",
       "category": "Entertainment",
-      "streamUrl": "https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8"
+      "streamUrl": "http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+	"
     },
       {
       "name": "TV5",
@@ -31,27 +32,24 @@
       "name": "HBO",
       "logo": "https://i.imgur.com/m2bdcr8.png",
       "category": "Movies",
-      "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd",
-      "drm": {
-        "c2b7a1e95d4f4c3a8e617f9d0a2b6c18": "27fca1ab042998b0c2f058b0764d7ed4"
-      }
+      "streamUrl": "http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
     },
     {
       "name": "HBO Hits",
       "logo": "https://i.imgur.com/HNqr8wA.png",
       "category": "Movies",
-      "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default/index.mpd",
+      "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd",
       "drm": {
-        "b04ae8017b5b4601a5a0c9060f6d5b7d": "a8795f3bdb8a4778b7e888ee484cc7a1"
+        "5d600eb70944d681c26c1f48fbe61f10": "796139ba05a2ab425f978c7fd98b4372"
       }
     },
     {
       "name": "HBO Family",
       "logo": "https://i.imgur.com/CnHKBrC.png",
       "category": "Movies",
-      "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd",
+      "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd",
       "drm": {
-        "872910c843294319800d85f9a0940607": "f79fd895b79c590708cf5e8b5c6263be"
+        "2b9ff7cc1a3dc9fef47cc5773472d510": "7e37588e893ab9252e505bd6dda35beb"
       }
     },
     {

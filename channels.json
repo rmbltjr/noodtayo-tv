@@ -98,6 +98,12 @@
       "logo": "https://i.imgur.com/MjHK3N0.png",
       "category": "Movies",
       "streamUrl": "http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extension=ts&play_token=BRpcwJlxdl"
+    },
+    {
+      "name": "Star Movies Select",
+      "logo": "https://i.imgur.com/EBrUGJw.png",
+      "category": "Movies",
+      "streamUrl": "http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441215&extension=ts&play_token=I6IiF0CvFf"
     },    
     {
       "name": "CNA",

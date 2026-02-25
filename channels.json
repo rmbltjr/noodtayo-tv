@@ -94,6 +94,12 @@
       }
     },
     {
+      "name": "Star Movies HD",
+      "logo": "https://i.imgur.com/MjHK3N0.png",
+      "category": "Movies",
+      "streamUrl": "http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extension=ts&play_token=BRpcwJlxdl"
+    },    
+    {
       "name": "CNA",
       "logo": "https://i.imgur.com/T2pED0d.png",
       "category": "News",

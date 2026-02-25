@@ -1,20 +1,4 @@
 [ 
-  {
-      "name": "CNA",
-      "logo": "https://i.imgur.com/T2pED0d.png",
-      "category": "Movies",
-      "dateAdded": "2026-02-20",
-      "streamUrl": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
-    },
-    {
-      "name": "Animal Planet HD",
-      "logo": "https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png",
-      "category": "Documentary",
-      "streamUrl": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd",
-      "drm": {
-        "df81f15150f74c799fdde64ef49dfb75": "05794a012ae74d77953f2b9fae6804c7"
-      }
-    },
     {
       "name": "Kapamilya Channel",
       "logo": "https://i.imgur.com/JjtDnJk.png",
@@ -32,46 +16,58 @@
       "streamUrl": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
     },
     {
+      "name": "GMA 7",
+      "logo": "https://i.imgur.com/Cu1tAY8.png",
+      "category": "Entertainment",
+      "streamUrl": "https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8"
+    },
+      {
+      "name": "TV5",
+      "logo": "https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126",
+      "category": "Entertainment",
+      "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd",
+      "drm": {
+        "2615129ef2c846a9bbd43a641c7303ef": "07c7f996b1734ea288641a68e1cfdc4d"
+      }
+    },
+    {
       "name": "HBO",
       "logo": "https://i.imgur.com/m2bdcr8.png",
       "category": "Movies",
-      "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_primary.mpd",
+      "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd",
       "drm": {
-        "a098896d2b11c5f3906a993c3ba5c610": "f3f842c54cc96cbbd0bcb96a4cb8a813"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+        "c2b7a1e95d4f4c3a8e617f9d0a2b6c18": "27fca1ab042998b0c2f058b0764d7ed4"
       }
     },
     {
       "name": "HBO Hits",
       "logo": "https://i.imgur.com/HNqr8wA.png",
       "category": "Movies",
-      "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_primary.mpd",
+      "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default/index.mpd",
       "drm": {
-        "5d600eb70944d681c26c1f48fbe61f10": "796139ba05a2ab425f978c7fd98b4372"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-      }
-    },
-      {
-      "name": "HBO Family",
-      "logo": "https://i.imgur.com/CnHKBrC.png",
-      "category": "Movies",
-      "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_primary.mpd",
-      "drm": {
-        "2b9ff7cc1a3dc9fef47cc5773472d510": "7e37588e893ab9252e505bd6dda35beb"
-      },
-      "headers": {
-        "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+        "b04ae8017b5b4601a5a0c9060f6d5b7d": "a8795f3bdb8a4778b7e888ee484cc7a1"
       }
     },
     {
-      "name": "Star Movies",
-      "logo": "https://yourcdn.com/logos/untv.png",
+      "name": "HBO Family",
+      "logo": "https://i.imgur.com/CnHKBrC.png",
       "category": "Movies",
+      "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd",
+      "drm": {
+        "872910c843294319800d85f9a0940607": "f79fd895b79c590708cf5e8b5c6263be"
+      }
+    },
+    {
+      "name": "CNA",
+      "logo": "https://i.imgur.com/T2pED0d.png",
+      "category": "News",
+      "streamUrl": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
+    },
+    {
+      "name": "Anime X HiDive",
+      "logo": "https://images.pluto.tv/channels/6793eaa4bc03978b9bc63db1/colorLogoPNG_1746815871603.png",
+      "category": "Anime",
       "dateAdded": "2026-02-20",
-      "streamUrl": "http://93.119.105.61:80/play/live.php?mac=00:1A:79:00:14:3C&stream=441217&extension=ts&play_token=BRpcwJlxdl"
+      "streamUrl": "https://stitcher.pluto.tv/stitch/hls/channel/6793eaa4bc03978b9bc63db1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f6381014-b0b3-11f0-b731-c229de4b3760"
     }
 ]

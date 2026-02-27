@@ -12,7 +12,7 @@
       "name": "ALLTV2",
       "logo": "https://i.imgur.com/4cPmue7.png",
       "category": "Entertainment",
-      "dateAdded": "2026-02-20",
+      "dateAdded": "2026-02-28",
       "streamUrl": "http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
     },
     {
@@ -49,6 +49,7 @@
       "name": "Movies Now",
       "logo": "https://i.imgur.com/3BCg3pS.png",
       "category": "Educational",
+      "dateAdded": "2026-02-28",
       "streamUrl": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
       "drm": {
         "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"

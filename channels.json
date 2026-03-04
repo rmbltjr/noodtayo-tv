@@ -296,7 +296,10 @@
       "name": "One Sports",
       "logoLocal": "ch_one_sports",
       "category": "Sports",
-      "streamUrl": "http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+      "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd",
+      "drm": {
+        "53c3bf2eba574f639aa21f2d4409ff11": "3de28411cf08a64ea935b9578f6d0edd"
+      }
     }
     
 ]

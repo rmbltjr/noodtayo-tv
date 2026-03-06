@@ -273,17 +273,7 @@
       "headers": {
       "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
       }
-    },
-
-     {
-      "name": "Cartoon Network",
-      "logoLocal": "ch_cartoon_network",
-      "category": "Kids",
-      "streamUrl": "https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd",
-      "drm": {
-        "7ef57f7f3e8cf0efe4f3d5772a7cbb35": "0ac6d617095fbe0ca7f4c9ae72fa5f51"
-      }
-    },       
+    },  
     
      {
       "name": "AniPlus",

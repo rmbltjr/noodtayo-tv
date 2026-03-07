@@ -1077,10 +1077,13 @@
   },
   
     {
-    "name": "Sky Sports F1",
-    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/98/Sky_Sports_F1_2020_DOG.png",
+    "name": "NBA TV",
+    "logo": "",
     "category": "Sports",
     "dateAdded": "2026-03-08",      
-    "streamUrl": "https://jmp2.uk/stvp-USBC3600008WY"
-  }
+    "streamUrl": "https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd",
+    "drm": {
+      "834ec3cbface4fe992e995a32d35f587": "e0a97198d9f2dfcb0a0483cd4b04414b"
+    }
+  },
 ]

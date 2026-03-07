@@ -530,14 +530,12 @@
     }
   },
 
-    {
+  {
     "name": "HITS Now",
     "logoLocal": "ch_hits_now",
     "category": "Entertainment",
     "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd",
-    "drm": {
-      "https://ck-server.danng.me/?username=HishamKamarul&channelid=5110"
-    }
+    "drm": "https://ck-server.danng.me/?username=HishamKamarul&channelid=5110"
   },
 
   {

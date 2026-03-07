@@ -1050,6 +1050,19 @@
     }
   },
 
+    {
+    "name": "BeIN Sports 2",
+    "logoLocal": "ch_bein_sports_2",
+    "category": "Sports",
+    "streamUrl": "https://f1-only.b-cdn.net/5066/master.mpd",
+    "drm": {
+      "1a655189ab5c49eb235308c2b1a9e710": "3c4508af348844107f5e026a4fd6b16e"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
   {
     "name": "BeIN Sports 3",
     "logoLocal": "ch_bein_sports_3",

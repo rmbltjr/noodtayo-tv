@@ -1078,7 +1078,7 @@
   
     {
     "name": "Sky Sports F1",
-    "logoLocal": "https://static.wikia.nocookie.net/logopedia/images/9/98/Sky_Sports_F1_2020_DOG.png/revision/latest?cb=20220620061410",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/9/98/Sky_Sports_F1_2020_DOG.png/revision/latest?cb=20220620061410",
     "category": "Sports",
     "dateAdded": "2026-03-08",      
     "streamUrl": "http://37.220.29.186:8000/spf1/spf1/index.m3u8"

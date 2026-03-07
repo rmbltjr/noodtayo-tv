@@ -1,7 +1,7 @@
 {
   "version_code": 2,
   "version_name": "1.0",
-  "apk_url": "https://github.com/youruser/yourrepo/releases/download/v1.1.0/noodtayo.apk",
+  "apk_url": "https://raw.githubusercontent.com/noodtayo/app/refs/heads/main/NoodTayo.apk",
   "release_notes": "Bug fixes and performance improvements.",
   "website_url": "https://noodtayo.tv/download"
 }

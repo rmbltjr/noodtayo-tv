@@ -1081,9 +1081,9 @@
     "logo": "",
     "category": "Sports",
     "dateAdded": "2026-03-08",      
-    "streamUrl": "https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbo/manifest.mpd",
+    "streamUrl": "https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd",
     "drm": {
-      "b1fa578fb90848a6b40ae09d052e8f96": "bf0d2334a6e1ac5c0ed41849ed4d3698"
+      "ad97a7abab314cf8963e0c44d2c321eb": "37717782418736b919d64cbb078a5bff"
     },
     "headers": {
       "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"

@@ -1077,16 +1077,10 @@
   },
   
     {
-    "name": "NBA TV",
+    "name": "TEST CHANNEL",
     "logo": "",
     "category": "Sports",
     "dateAdded": "2026-03-08",      
-    "streamUrl": "https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd",
-    "drm": {
-      "ad97a7abab314cf8963e0c44d2c321eb": "37717782418736b919d64cbb078a5bff"
-    },
-    "headers": {
-      "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
-    }      
+    "streamUrl": "http://66.90.99.154:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6"    
   }
 ]

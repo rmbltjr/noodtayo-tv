@@ -1084,6 +1084,9 @@
     "streamUrl": "https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd",
     "drm": {
       "834ec3cbface4fe992e995a32d35f587": "e0a97198d9f2dfcb0a0483cd4b04414b"
-    }
+    },
+    "headers": {
+      "User-Agent": "IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1"
+    }      
   }
 ]

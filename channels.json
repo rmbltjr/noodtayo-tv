@@ -307,9 +307,9 @@
     "name": "Al Jazeera",
     "logoLocal": "ch_al_jazeera",
     "category": "News",
-    "streamUrl": "https://nog-live1-ott.izzigo.tv/14/out/u/dash/AL-JAZEERA-HD/default.mpd",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd",
     "drm": {
-      "ba7146a3064f23e9f34a76096509d664": "604e9a361c3f7033d930c34ff4d3d830"
+      "b1fbd0874e7923f5b05929a042aa0610": "6c3c498113abffdf454dc935319a794d"
     }
   },
 

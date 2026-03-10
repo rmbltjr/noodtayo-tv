@@ -1267,7 +1267,7 @@
 
   {
     "name": "NFL Network",
-    "logoLocal": "ch_ngl_network",
+    "logoLocal": "ch_nfl_network",
     "category": "Sports",
     "streamUrl": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nfl_hd/default/index.mpd",
     "drm": {

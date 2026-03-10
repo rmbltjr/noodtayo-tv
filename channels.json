@@ -636,6 +636,33 @@
     }
   },
 
+    {
+    "name": "Cartoonito",
+    "logoLocal": "ch_cartoonito",
+    "category": "Kids",
+    "streamUrl": "http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+
+  {
+    "name": "Disney Channel",
+    "logoLocal": "ch_disney_channel",
+    "category": "Kids",
+    "streamUrl": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_channel_hd/default/index.mpd",
+    "drm": {
+      "52358519f886446d82834a803b36f796": "58b6ac8e07d354b178255e03b9d0f819"
+    }
+  },
+
+  {
+    "name": "Disney Jr.",
+    "logoLocal": "ch_disney_jr",
+    "category": "Kids",
+    "streamUrl": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_jr_hd/default/index.mpd",
+    "drm": {
+      "52358519f886446d82834a803b36f796": "58b6ac8e07d354b178255e03b9d0f819"
+    }
+  },
+
   {
     "name": "One News",
     "logoLocal": "ch_one_news",
@@ -1062,6 +1089,205 @@
     "logoLocal": "ch_bein_sports_3",
     "category": "Sports",
     "streamUrl": "https://hls.iill.top/api/beIN-Sports-3/index.m3u8"
-  }
+  },
+
+  {
+    "name": "NBA TV",
+    "logoLocal": "ch_nba_tv",
+    "category": "Sports",
+    "streamUrl": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nba_tv_hd/default/index.mpd",
+    "drm": {
+      "0c39778fe8fb4f9f8574016b3d4ae2ed": "232b1f450f2e37f47fdd5b678a8a546d"
+    }
+  },
+
+  {
+    "name": "NFL Network",
+    "logoLocal": "ch_ngl_network",
+    "category": "Sports",
+    "streamUrl": "https://bks400-tol-110.quieroxview.com.mx/bpk-tv/nfl_hd/default/index.mpd",
+    "drm": {
+      "52358519f886446d82834a803b36f796": "58b6ac8e07d354b178255e03b9d0f819"
+    }
+  },
+
+  {
+    "name": "ONE Championship",
+    "logoLocal": "ch_one_championship",
+    "category": "Sports",
+    "streamUrl": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd",
+    "drm": {
+      "308006101c8fd0262c0f529319b9c127": "37683aadc75b1450efa82d62c647984d"
+    }
+  },
+
+  {
+    "name": "TNT Sports 1",
+    "logoLocal": "ch_tnt_sports_1",
+    "category": "Sports",
+    "streamUrl": "https://hls.iill.top/api/TNT-Sports-1/index.m3u8"
+  },
+
+  {
+    "name": "TNT Sports 2",
+    "logoLocal": "ch_tnt_sports_2",
+    "category": "Sports",
+    "streamUrl": "https://hls.iill.top/api/TNT-Sports-2/index.m3u8"
+  },
+
+  {
+    "name": "TNT Sports 3",
+    "logoLocal": "ch_tnt_sports_3",
+    "category": "Sports",
+    "streamUrl": "https://hls.iill.top/api/TNT-Sports-3/index.m3u8"
+  },
+
+  {
+    "name": "TNT Sports 4",
+    "logoLocal": "ch_tnt_sports_4",
+    "category": "Sports",
+    "streamUrl": "https://hls.iill.top/api/TNT-Sports-4/index.m3u8"
+  },
+
+  {
+    "name": "Sky Sports F1",
+    "logoLocal": "ch_sky_sports_f1",
+    "category": "Sports",
+    "streamUrl": "https://hls.iill.top/api/Sky-Sports-F1/index.m3u8"
+  },
+
+  {
+    "name": "Eurosport 1",
+    "logoLocal": "ch_eurosport_1",
+    "category": "Sports",
+    "streamUrl": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd",
+    "drm": {
+      "01a665d487aa4c1c898c9eb0ff1a21df": "a0b9df5f92e6b218ddb6aa40a2cd996d"
+    }
+  },
+
+  {
+    "name": "Eurosport 2",
+    "logoLocal": "ch_eurosport_2",
+    "category": "Sports",
+    "streamUrl": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd",
+    "drm": {
+      "657707bbd1e240e08bd6969df27fef7c": "364e00581c1432f4175e4a2e8e0cd57e"
+    }
+  },
+
+  {
+    "name": "DAZN Combat",
+    "logoLocal": "ch_dazn_combat",
+    "category": "Sports",
+    "streamUrl": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8"
+  },
+
+  {
+    "name": "DAZN Ringside",
+    "logoLocal": "ch_dazn_ringside",
+    "category": "Sports",
+    "streamUrl": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8"
+  },
+
+  {
+    "name": "Pilipinas Live 1",
+    "logoLocal": "ch_pilipinas_live",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi1/default/index.mpd",
+    "drm": {
+      "27059dc8b75841e7a511e67d5e069ae2": "b7217f85cb0a1dd7113ed307c363d0df"
+    }
+  },
+
+  {
+    "name": "Pilipinas Live 2",
+    "logoLocal": "ch_pilipinas_live",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd",
+    "drm": {
+      "2f3056cac18d4e31a59de39767042b03": "83728946b898141ae411572f9f5fce0d"
+    }
+  },
+
+  {
+    "name": "Pilipinas Live 3",
+    "logoLocal": "ch_pilipinas_live",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd",
+    "drm": {
+      "0c16d5962a22494db502b3453f891208": "acaed175b981b34ae9b5cb0130506854"
+    }
+  },
+
+  {
+    "name": "Pilipinas Live 4",
+    "logoLocal": "ch_pilipinas_live",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd",
+    "drm": {
+      "c3050cba95c945418efa3aedbc69cff7": "988e7fade0828273472e24545d0cfa4c"
+    }
+  },
+
+  {
+    "name": "Pilipinas Live 5",
+    "logoLocal": "ch_pilipinas_live",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd",
+    "drm": {
+      "eecc6d7ac3df439fb2b73fb38007cb82": "826c341a6fef4518cefd27ec85e8b274"
+    }
+  },
+
+  {
+    "name": "Pilipinas Live 6",
+    "logoLocal": "ch_pilipinas_live",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd",
+    "drm": {
+      "02d5f086706e407e9343c040ac7fb5b8": "9d7e088bf7fffc9297ab3a02f0ce9a72"
+    }
+  },
+
+  {
+    "name": "Pilipinas Live 7",
+    "logoLocal": "ch_pilipinas_live",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd",
+    "drm": {
+      "40bed7f7948e4e5792982cf5b7ee4d78": "1fbfd2e3be51aae857f2f24306e5fc41"
+    }
+  },
+
+  {
+    "name": "Pilipinas Live 8",
+    "logoLocal": "ch_pilipinas_live",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd",
+    "drm": {
+      "5a8dbf3b9c2c43079a40fb5d0068f9ef": "1778ac6e22527ee2efd6886d8d509c2d"
+    }
+  },
+
+  {
+    "name": "Pilipinas Live 9",
+    "logoLocal": "ch_pilipinas_live",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd",
+    "drm": {
+      "1c7b9a2af9ad4076b155f06269b6adc2": "ed6a8b11738cd27c0bee2d9e3fee178a"
+    }
+  },
+
+  {
+    "name": "Pilipinas Live 10",
+    "logoLocal": "ch_pilipinas_live",
+    "category": "Sports",
+    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd",
+    "drm": {
+      "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
+    }
+  }  
   
 ]

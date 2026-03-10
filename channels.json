@@ -307,9 +307,12 @@
     "name": "Al Jazeera",
     "logoLocal": "ch_al_jazeera",
     "category": "News",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_primary.mpd",
     "drm": {
       "b1fbd0874e7923f5b05929a042aa0610": "6c3c498113abffdf454dc935319a794d"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
     }
   },
 
@@ -367,7 +370,13 @@
     "name": "BBC News",
     "logoLocal": "ch_bbc_news",
     "category": "News",
-    "streamUrl": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_primary.mpd",
+    "drm": {
+      "01767d1c2315c0e9556f477fb1f0c710": "77ec0eeb21c07812fd7c58628366ccb3"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
   },
 
   {

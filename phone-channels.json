@@ -35,12 +35,20 @@
   {
     "name": "Cinemo",
     "logo": "/images/cinemo.png",
-    "category": "Movies"
+    "category": "Movies",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd",
+    "drm": {
+      "aa8aebe35ccc4541b7ce6292efcb1bfb": "f06b6031a3604cc6708c14d83f1a1b27"
+    }
   },
   {
     "name": "Cinema One",
     "logo": "/images/cinema-one.png",
     "category": "Movies"
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd",
+    "drm": {
+      "58d0e56991194043b8fb82feb4db7276": "c116c612201e178193693eced13d7319"
+    }
   },
   {
     "name": "HBO",

@@ -27,9 +27,9 @@
     "name": "ALLTV2",
     "logo": "/images/alltv2.webp",
     "category": "Entertainment",
-    "url": "https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcyNTg1NDEyLCJleHAiOjE3NzM4ODE0MTIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3Mzg4MTQxMn0.pWBHcolaeZXd-5DAkMobbJn5DbFoSTDEWYuQn0LC5U4",
+    "url": "https://converse.nathcreqtives.com/1179/manifest.mpd",
     "drm": {
-      "2615129ef2c846a9bbd43a641c7303ef": "07c7f996b1734ea288641a68e1cfdc4d"
+      "31363233323238353336303333363036": "367662564c69425947353948374f4553"
     }
   },
   {

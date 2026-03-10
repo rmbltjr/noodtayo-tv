@@ -1,0 +1,789 @@
+[
+  {
+    "name": "Kapamilya Channel",
+    "logo": "/images/kapamilya-channel.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "GMA 7",
+    "logo": "/images/gma-7.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "TV5",
+    "logo": "/images/tv5.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "ALLTV2",
+    "logo": "/images/alltv2.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-02-20"
+  },
+  {
+    "name": "Cinemo",
+    "logo": "/images/cinemo.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Cinema One",
+    "logo": "/images/cinema-one.png",
+    "category": "Movies"
+  },
+  {
+    "name": "HBO",
+    "logo": "/images/hbo.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Movies Now",
+    "logo": "/images/movies-now.png",
+    "category": "Movies"
+  },
+  {
+    "name": "One Sports HD",
+    "logo": "/images/one-sports.png",
+    "category": "Sports"
+  },
+  {
+    "name": "GTV",
+    "logo": "/images/gtv.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-02-18"
+  },
+  {
+    "name": "GMA Pinoy TV",
+    "logo": "/images/gma-pinoy-tv.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-02-18"
+  },
+    {
+    "name": "Heart of Asia",
+    "logo": "/images/heart-of-asia.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "PBO",
+    "logo": "/images/pbo.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Jeepney TV",
+    "logo": "/images/jeepney-tv.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "HBO Hits",
+    "logo": "/images/hbo-hits.png",
+    "category": "Movies"
+  },
+  {
+    "name": "HBO Family",
+    "logo": "/images/hbo-family.png",
+    "category": "Movies"
+  },
+  {
+    "name": "HBO Signature",
+    "logo": "/images/hbo-signature.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Star Movies",
+    "logo": "/images/star-movies.webp",
+    "category": "Movies",
+    "dateAdded": "2026-02-15"
+  },
+  {
+    "name": "Star Movies Select",
+    "logo": "/images/star-movies-select.webp",
+    "category": "Movies",
+    "dateAdded": "2026-02-15"
+  },
+  {
+    "name": "Cinemax",
+    "logo": "/images/cinemax.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Viva Cinema",
+    "logo": "/images/viva-cinema.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Tagalized Movie Channel",
+    "logo": "/images/tmc.png",
+    "category": "Movies"
+  },
+  {
+    "name": "tvN Movies Pinoy",
+    "logo": "/images/tvn-movies-pinoy.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Tap Movies",
+    "logo": "/images/tap-movies.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Celestial Movies Pinoy",
+    "logo": "/images/celestial-movies.png",
+    "category": "Movies"
+  },
+  {
+    "name": "HITS Movies",
+    "logo": "/images/hits-movies.png",
+    "category": "Movies"
+  },
+  {
+    "name": "THRILL",
+    "logo": "/images/thrill.png",
+    "category": "Movies"
+  },
+  {
+    "name": "A2Z",
+    "logo": "/images/a2z.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "AniPlus HD",
+    "logo": "/images/aniplus-hd.png",
+    "category": "Anime"
+  },
+  {
+    "name": "Animax",
+    "logo": "/images/animax.png",
+    "category": "Anime"
+  },
+  {
+    "name": "Anime x HiDive",
+    "logo": "/images/anime-x-hidive.webp",
+    "category": "Anime",
+    "dateAdded": "2026-02-18"
+  },
+  {
+    "name": "Cartoon Network",
+    "logo": "/images/cartoon-network.png",
+    "category": "Kids"
+  },
+  {
+    "name": "RPTV",
+    "logo": "/images/rptv.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "One Sports+",
+    "logo": "/images/one-sports-plus.png",
+    "category": "Sports"
+  },
+  {
+    "name": "PBA RUSH",
+    "logo": "/images/pba-rush.png",
+    "category": "Sports"
+  },
+  {
+    "name": "NBA TV Philippines",
+    "logo": "/images/nba-tv-ph.png",
+    "category": "Sports"
+  },
+  {
+    "name": "UAAP Varsity Channel",
+    "logo": "/images/varsity-channel.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Tap Sports",
+    "logo": "/images/tap-sports.png",
+    "category": "Sports"
+  },
+  {
+    "name": "One News",
+    "logo": "/images/one-news.png",
+    "category": "News"
+  },
+  {
+    "name": "One PH",
+    "logo": "/images/one-ph.png",
+    "category": "News"
+  },
+  {
+    "name": "DZMM Teleradyo",
+    "logo": "/images/dzmm-teleradyo.png",
+    "category": "News"
+  },
+    {
+    "name": "ANC",
+    "logo": "/images/anc.png",
+    "category": "News"
+  },
+  {
+    "name": "TFC",
+    "logo": "/images/tfc.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "BBC One",
+    "logo": "/images/bbc-one.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-02-18"
+  },
+  {
+    "name": "Bilyonaryo Channel",
+    "logo": "/images/bilyonaryo.png",
+    "category": "News"
+  },
+  {
+    "name": "Bloomberg",
+    "logo": "/images/bloomberg.png",
+    "category": "News"
+  },
+  {
+    "name": "BBC News",
+    "logo": "/images/bbc-news.png",
+    "category": "News"
+  },
+  {
+    "name": "CNN International",
+    "logo": "/images/cnn.png",
+    "category": "News"
+  },
+  {
+    "name": "France24",
+    "logo": "/images/france24.png",
+    "category": "News"
+  },
+  {
+    "name": "Channel News Asia",
+    "logo": "/images/cna.png",
+    "category": "News"
+  },
+  {
+    "name": "Disney Channel",
+    "logo": "/images/disney-channel.png",
+    "category": "Kids",
+    "dateAdded": "2026-02-18"
+  },
+  {
+    "name": "Nickelodeon",
+    "logo": "/images/nickelodeon.png",
+    "category": "Kids"
+  },
+  {
+    "name": "Nick Jr",
+    "logo": "/images/nick-jr.png",
+    "category": "Kids"
+  },
+  {
+    "name": "DreamWorks",
+    "logo": "/images/dreamworks.png",
+    "category": "Kids"
+  },
+  {
+    "name": "DreamWorks (Tagalized)",
+    "logo": "/images/dreamworks.png",
+    "category": "Kids"
+  },
+  {
+    "name": "Moonbug",
+    "logo": "/images/moonbug.png",
+    "category": "Kids"
+  },
+  {
+    "name": "Cartoon Channel PH",
+    "logo": "/images/cartoon-channel-ph.png",
+    "category": "Kids"
+  },
+  {
+    "name": "Discovery Channel",
+    "logo": "/images/discovery-channel.png",
+    "category": "Documentary"
+  },
+    {
+    "name": "Discovery Asia",
+    "logo": "/images/discovery-asia.webp",
+    "category": "Documentary",
+    "dateAdded": "2026-02-18"
+  },
+  {
+    "name": "Animal Planet",
+    "logo": "/images/animal-planet.png",
+    "category": "Documentary"
+  },
+  {
+    "name": "Animal Planet HD",
+    "logo": "/images/animal-planet.png",
+    "category": "Documentary"
+  },
+  {
+    "name": "History",
+    "logo": "/images/history.png",
+    "category": "Documentary"
+  },
+  {
+    "name": "BBC Earth",
+    "logo": "/images/bbc-earth.png",
+    "category": "Documentary"
+  },
+  {
+    "name": "DepEd TV",
+    "logo": "/images/deped-tv.png",
+    "category": "Educational"
+  },
+  {
+    "name": "HGTV",
+    "logo": "/images/hgtv.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Food Network",
+    "logo": "/images/food-network.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Asian Food Network",
+    "logo": "/images/afn.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Fashion TV",
+    "logo": "/images/fashion-tv.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Travel Channel",
+    "logo": "/images/travel-channel.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Crime & Investigation",
+    "logo": "/images/crime.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Lifetime",
+    "logo": "/images/lifetime.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "HITS Now",
+    "logo": "/images/hits-now.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Hits HD",
+    "logo": "/images/hits-hd.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Rock Entertainment",
+    "logo": "/images/rock-entertainment.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Rock Action",
+    "logo": "/images/rock-action.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "KIX",
+    "logo": "/images/kix.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "AXN",
+    "logo": "/images/axn.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Warner TV",
+    "logo": "/images/warner-tv.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Global Trekker",
+    "logo": "/images/global-trekker.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "True TV",
+    "logo": "/images/truetv.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "Sari-Sari",
+    "logo": "/images/sari-sari.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Kapatid Channel",
+    "logo": "/images/kapatid-channel.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "BuKO",
+    "logo": "/images/buko.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "PTV4",
+    "logo": "/images/ptv4.png",
+    "category": "Government"
+  },
+  {
+    "name": "IBC 13",
+    "logo": "/images/ibc-13.png",
+    "category": "Government"
+  },
+  {
+    "name": "tvN Premium",
+    "logo": "/images/tvn.png",
+    "category": "International"
+  },
+  {
+    "name": "KBS World",
+    "logo": "/images/kbs-world.png",
+    "category": "International"
+  },
+  {
+    "name": "Arirang",
+    "logo": "/images/arirang.png",
+    "category": "International"
+  },
+  {
+    "name": "NHK World Japan",
+    "logo": "/images/nhk-world.png",
+    "category": "International"
+  },
+  {
+    "name": "ABC Australia",
+    "logo": "/images/abc.png",
+    "category": "International"
+  },
+  {
+    "name": "Al Jazeera",
+    "logo": "/images/al-jazeera.png",
+    "category": "News"
+  },
+  {
+    "name": "CNBC",
+    "logo": "/images/cnbc.png",
+    "category": "News"
+  },
+  {
+    "name": "Wil TV",
+    "logo": "/images/wil-tv.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "K+",
+    "logo": "/images/k-plus.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "TVN Movies",
+    "logo": "/images/tvn-movies.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Cartoonito",
+    "logo": "/images/cartoonito.png",
+    "category": "Kids"
+  },
+  {
+    "name": "New K-Pop",
+    "logo": "/images/new-k-pop.webp",
+    "category": "Music",
+    "dateAdded": "2026-02-18"
+  },
+  {
+    "name": "MYX",
+    "logo": "/images/myx.png",
+    "category": "Music"
+  },
+  {
+    "name": "Vevo Pop",
+    "logo": "/images/vevo-pop.png",
+    "category": "Music"
+  },
+  {
+    "name": "Love Nature",
+    "logo": "/images/love-nature.png",
+    "category": "Documentary"
+  },
+  {
+    "name": "Comedy Central",
+    "logo": "/images/comedy-central.png",
+    "category": "Entertainment",
+    "dateAdded": "2026-02-20"
+  },
+  {
+    "name": "AMC+",
+    "logo": "/images/amc-plus.png",
+    "category": "Movies"
+  },
+  {
+    "name": "AMC Presents",
+    "logo": "/images/amc-presents.png",
+    "category": "Movies"
+  },
+  {
+    "name": "MovieSphere by Lionsgate",
+    "logo": "/images/movie-sphere.png",
+    "category": "Movies"
+  },
+  {
+    "name": "Pop",
+    "logo": "/images/pop.png",
+    "category": "Kids"
+  },
+  {
+    "name": "CBeebies",
+    "logo": "/images/cbeebies.png",
+    "category": "Kids"
+  },
+  {
+    "name": "Outdoor",
+    "logo": "/images/outdoor.png",
+    "category": "Lifestyle"
+  },
+  {
+    "name": "NET 25",
+    "logo": "/images/net-25.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-02-20"
+  },
+  {
+    "name": "UNTV",
+    "logo": "/images/untv.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-02-23"
+  },
+    {
+    "name": "DZRH TV",
+    "logo": "/images/dzrh-tv.webp",
+    "category": "News",
+    "dateAdded": "2026-02-20"
+  },
+  {
+    "name": "Abante Radyo",
+    "logo": "/images/abante-radyo.png",
+    "category": "News"
+  },
+  {
+    "name": "Mindanow Network TV",
+    "logo": "/images/mindanow-network-tv.png",
+    "category": "Government"
+  },
+    {
+    "name": "Wild Earth",
+    "logo": "/images/wild-earth.png",
+    "category": "Documentary"
+  },
+    {
+    "name": "RT Documentary",
+    "logo": "/images/rt-documentary.png",
+    "category": "Documentary"
+  },
+  {
+    "name": "Game Show Network",
+    "logo": "/images/game-show-network.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-02-18"
+  },
+  {
+    "name": "Crave 1",
+    "logo": "/images/crave-1.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Crave 2",
+    "logo": "/images/crave-2.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Crave 3",
+    "logo": "/images/crave-3.png",
+    "category": "Entertainment"
+  },
+  {
+    "name": "Crave 4",
+    "logo": "/images/crave-4.png",
+    "category": "Entertainment"
+  },
+    {
+    "name": "Pilipinas Live 1",
+    "logo": "/images/pilipinas-live.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Pilipinas Live 2",
+    "logo": "/images/pilipinas-live.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Pilipinas Live 3",
+    "logo": "/images/pilipinas-live.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Pilipinas Live 4",
+    "logo": "/images/pilipinas-live.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Pilipinas Live 5",
+    "logo": "/images/pilipinas-live.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Pilipinas Live 6",
+    "logo": "/images/pilipinas-live.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Pilipinas Live 7",
+    "logo": "/images/pilipinas-live.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Pilipinas Live 8",
+    "logo": "/images/pilipinas-live.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Pilipinas Live 9",
+    "logo": "/images/pilipinas-live.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Pilipinas Live 10",
+    "logo": "/images/pilipinas-live.png",
+    "category": "Sports"
+  },
+  {
+    "name": "DAZN Combat",
+    "logo": "/images/dazn-combat.webp",
+    "category": "Sports",
+    "dateAdded": "2026-02-15"
+  },
+  {
+    "name": "DAZN Ringside",
+    "logo": "/images/dazn-ringside.webp",
+    "category": "Sports",
+    "dateAdded": "2026-02-15"
+  },
+  {
+    "name": "SPOTV",
+    "logo": "/images/spotv.png",
+    "category": "Sports"
+  },
+  {
+    "name": "SPOTV2",
+    "logo": "/images/spotv2.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Premier Sports",
+    "logo": "/images/premier-sports.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Premier Sports 2",
+    "logo": "/images/premier-sports-2.png",
+    "category": "Sports"
+  },
+  {
+    "name": "BeIN Sports 1",
+    "logo": "/images/bein-sports-1.png",
+    "category": "Sports"
+  },
+    {
+    "name": "BeIN Sports 2",
+    "logo": "/images/bein-sports-2.png",
+    "category": "Sports"
+  },
+  {
+    "name": "BeIN Sports 3",
+    "logo": "/images/bein-sports-3.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Eurosport 1",
+    "logo": "/images/eurosport-1.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Eurosport 2",
+    "logo": "/images/eurosport-2.png",
+    "category": "Sports"
+  },
+  {
+    "name": "UFC TV",
+    "logo": "/images/ufc.png",
+    "category": "Sports"
+  },
+  {
+    "name": "FIFA+",
+    "logo": "/images/fifa.png",
+    "category": "Sports"
+  },
+  {
+    "name": "TNT Sports 1",
+    "logo": "/images/tnt-sports.png",
+    "category": "Sports"
+  },
+  {
+    "name": "TNT Sports 2",
+    "logo": "/images/tnt-sports.png",
+    "category": "Sports"
+  },
+  {
+    "name": "TNT Sports 3",
+    "logo": "/images/tnt-sports.png",
+    "category": "Sports"
+  },
+  {
+    "name": "TNT Sports 4",
+    "logo": "/images/tnt-sports.png",
+    "category": "Sports"
+  },
+  {
+    "name": "TSN 1",
+    "logo": "/images/tsn-1.png",
+    "category": "Sports"
+  },
+  {
+    "name": "TSN 2",
+    "logo": "/images/tsn-2.png",
+    "category": "Sports"
+  },
+  {
+    "name": "TSN 3",
+    "logo": "/images/tsn-3.png",
+    "category": "Sports"
+  },
+  {
+    "name": "TSN 4",
+    "logo": "/images/tsn-4.png",
+    "category": "Sports"
+  },
+  {
+    "name": "TSN 5",
+    "logo": "/images/tsn-5.png",
+    "category": "Sports"
+  },
+  {
+    "name": "NFL Network",
+    "logo": "/images/nfl.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Tennis+",
+    "logo": "/images/tennis-plus.png",
+    "category": "Sports"
+  },
+  {
+    "name": "Billiard TV",
+    "logo": "/images/billiard-tv.png",
+    "category": "Sports"
+  }
+]

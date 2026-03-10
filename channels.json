@@ -1054,33 +1054,14 @@
     "name": "BeIN Sports 2",
     "logoLocal": "ch_bein_sports_2",
     "category": "Sports",
-    "streamUrl": "https://f1-only.b-cdn.net/5066/master.mpd",
-    "drm": {
-      "1a655189ab5c49eb235308c2b1a9e710": "3c4508af348844107f5e026a4fd6b16e"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
+    "streamUrl": "https://hls.iill.top/api/beIN-Sports-2/index.m3u8"
   },
 
   {
     "name": "BeIN Sports 3",
     "logoLocal": "ch_bein_sports_3",
     "category": "Sports",
-    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd",
-    "drm": {
-      "20c884ef8ed26b2762f8b1a78f2d1910": "042a21bf236ca729b1e343ed6e0a6337"
-    },
-    "headers": {
-      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
-    }
-  },
-  
-    {
-    "name": "TEST CHANNEL",
-    "logo": "",
-    "category": "Sports",
-    "dateAdded": "2026-03-08",      
-    "streamUrl": "http://66.90.99.154:8278/starmovies_raj/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=6df068af80da25d26a455054d0f909a6"    
+    "streamUrl": "https://hls.iill.top/api/beIN-Sports-3/index.m3u8"
   }
+  
 ]

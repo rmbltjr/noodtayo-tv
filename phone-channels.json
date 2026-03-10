@@ -5,23 +5,23 @@
     "category": "Entertainment",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/ccd312c8-e528-40ec-902c-e4205750ed11/index.mpd",
     "drm": {
-        "bd17afb5dc9648a39be79ee3634dd4b8": "b475084a1a58857e18480e30fbb0e544"
-    }  
+      "bd17afb5dc9648a39be79ee3634dd4b8": "b475084a1a58857e18480e30fbb0e544"
+    }
   },
   {
     "name": "GMA 7",
     "logo": "/images/gma-7.png",
     "category": "Entertainment",
-    "url": "https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8" 
+    "url": "https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8"
   },
   {
     "name": "TV5",
     "logo": "/images/tv5.png",
-    "category": "Entertainment"
+    "category": "Entertainment",
     "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd",
     "drm": {
-        "2615129ef2c846a9bbd43a641c7303ef": "07c7f996b1734ea288641a68e1cfdc4d"
-    }  
+      "2615129ef2c846a9bbd43a641c7303ef": "07c7f996b1734ea288641a68e1cfdc4d"
+    }
   },
   {
     "name": "ALLTV2",
@@ -29,8 +29,8 @@
     "category": "Entertainment",
     "url": "https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcyNTg1NDEyLCJleHAiOjE3NzM4ODE0MTIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3Mzg4MTQxMn0.pWBHcolaeZXd-5DAkMobbJn5DbFoSTDEWYuQn0LC5U4",
     "drm": {
-        "2615129ef2c846a9bbd43a641c7303ef": "07c7f996b1734ea288641a68e1cfdc4d"
-    }  
+      "2615129ef2c846a9bbd43a641c7303ef": "07c7f996b1734ea288641a68e1cfdc4d"
+    }
   },
   {
     "name": "Cinemo",
@@ -69,7 +69,7 @@
     "category": "Entertainment",
     "dateAdded": "2026-02-18"
   },
-    {
+  {
     "name": "Heart of Asia",
     "logo": "/images/heart-of-asia.png",
     "category": "Entertainment"
@@ -222,7 +222,7 @@
     "logo": "/images/dzmm-teleradyo.png",
     "category": "News"
   },
-    {
+  {
     "name": "ANC",
     "logo": "/images/anc.png",
     "category": "News"
@@ -309,7 +309,7 @@
     "logo": "/images/discovery-channel.png",
     "category": "Documentary"
   },
-    {
+  {
     "name": "Discovery Asia",
     "logo": "/images/discovery-asia.webp",
     "category": "Documentary",
@@ -569,7 +569,7 @@
     "category": "Entertainment",
     "dateAdded": "2026-02-23"
   },
-    {
+  {
     "name": "DZRH TV",
     "logo": "/images/dzrh-tv.webp",
     "category": "News",
@@ -585,12 +585,12 @@
     "logo": "/images/mindanow-network-tv.png",
     "category": "Government"
   },
-    {
+  {
     "name": "Wild Earth",
     "logo": "/images/wild-earth.png",
     "category": "Documentary"
   },
-    {
+  {
     "name": "RT Documentary",
     "logo": "/images/rt-documentary.png",
     "category": "Documentary"
@@ -621,7 +621,7 @@
     "logo": "/images/crave-4.png",
     "category": "Entertainment"
   },
-    {
+  {
     "name": "Pilipinas Live 1",
     "logo": "/images/pilipinas-live.png",
     "category": "Sports"
@@ -708,7 +708,7 @@
     "logo": "/images/bein-sports-1.png",
     "category": "Sports"
   },
-    {
+  {
     "name": "BeIN Sports 2",
     "logo": "/images/bein-sports-2.png",
     "category": "Sports"

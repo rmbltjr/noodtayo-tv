@@ -54,22 +54,37 @@
     "name": "HBO",
     "logo": "/images/hbo.png",
     "category": "Movies"
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd",
+    "drm": {
+      "c2b7a1e95d4f4c3a8e617f9d0a2b6c18": "27fca1ab042998b0c2f058b0764d7ed4"
+    }
   },
   {
     "name": "Movies Now",
     "logo": "/images/movies-now.png",
     "category": "Movies"
+    "url": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
+    "drm": {
+      "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
+    }
   },
   {
     "name": "One Sports HD",
     "logo": "/images/one-sports.png",
     "category": "Sports"
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd",
+    "drm": {
+      "53c3bf2eba574f639aa21f2d4409ff11": "3de28411cf08a64ea935b9578f6d0edd"
+    }
   },
   {
     "name": "GTV",
     "logo": "/images/gtv.webp",
     "category": "Entertainment",
-    "dateAdded": "2026-02-18"
+    "url": "https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcyNTg1NDEyLCJleHAiOjE3NzM4ODE0MTIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3Mzg4MTQxMn0.pWBHcolaeZXd-5DAkMobbJn5DbFoSTDEWYuQn0LC5U4",
+    "drm": {
+      "31363232353335323435353337353331": "35416a68643065697575493337566135"
+    }
   },
   {
     "name": "GMA Pinoy TV",

@@ -44,7 +44,7 @@
   {
     "name": "Cinema One",
     "logo": "/images/cinema-one.png",
-    "category": "Movies"
+    "category": "Movies",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd",
     "drm": {
       "58d0e56991194043b8fb82feb4db7276": "c116c612201e178193693eced13d7319"
@@ -53,7 +53,7 @@
   {
     "name": "HBO",
     "logo": "/images/hbo.png",
-    "category": "Movies"
+    "category": "Movies",
     "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd",
     "drm": {
       "c2b7a1e95d4f4c3a8e617f9d0a2b6c18": "27fca1ab042998b0c2f058b0764d7ed4"
@@ -62,7 +62,7 @@
   {
     "name": "Movies Now",
     "logo": "/images/movies-now.png",
-    "category": "Movies"
+    "category": "Movies",
     "url": "https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd",
     "drm": {
       "40f019b86241d23ef075633fd7f1e927": "058dec845bd340178a388edd104a015e"
@@ -71,7 +71,7 @@
   {
     "name": "One Sports HD",
     "logo": "/images/one-sports.png",
-    "category": "Sports"
+    "category": "Sports",
     "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd",
     "drm": {
       "53c3bf2eba574f639aa21f2d4409ff11": "3de28411cf08a64ea935b9578f6d0edd"

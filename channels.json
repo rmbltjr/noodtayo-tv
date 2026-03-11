@@ -990,6 +990,28 @@
     }
   },
 
+    {
+    "name": "TLC",
+    "logo": "https://raw.githubusercontent.com/rmbltjr/noodtayo-tv/main/images/ch_tlc.webp",
+    "category": "Lifestyle",
+    "dateAdded": "2026-03-11",    
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd",
+    "drm": {
+      "942ec156203b2aca1ddf3498f663c110": "7f5e6c69698ddefcb74553431b2b1c98"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
+    {
+    "name": "Game Show Network",
+    "logo": "https://raw.githubusercontent.com/rmbltjr/noodtayo-tv/main/images/ch_game_show_network.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-11",
+    "streamUrl": "https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8"
+  },
+  
   {
     "name": "NET25",
     "logoLocal": "ch_net25",

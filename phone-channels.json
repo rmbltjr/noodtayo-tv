@@ -105,6 +105,13 @@
     "dateAdded": "2026-03-11",
     "url": "https://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcyNTg1NDEyLCJleHAiOjE3NzM4ODE0MTIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3Mzg4MTQxMn0.pWBHcolaeZXd-5DAkMobbJn5DbFoSTDEWYuQn0LC5U4"
   },
+    {
+    "name": "SDTV Network",
+    "logo": "/images/sdtv-network.webp",
+    "category": "Entertainment",
+    "dateAdded": "2026-03-11",    
+    "url": "https://live20.bozztv.com/giatv/giatv-sdtvglobalnew/sdtvglobalnew/playlist.m3u8"
+  },
   {
     "name": "PBO",
     "logo": "/images/pbo.png",

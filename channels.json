@@ -406,9 +406,12 @@
     "name": "Cartoon Network",
     "logoLocal": "ch_cartoon_network",
     "category": "Kids",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd",
     "drm": {
-      "a2d1f552ff9541558b3296b5a932136b": "cdd48fa884dc0c3a3f85aeebca13d444"
+      "1a05bebf706408431a390c3f9f40f410": "89c5ff9f8e65c7fe966afbd2f9128e5f"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
     }
   },
 
@@ -523,9 +526,12 @@
     "name": "History",
     "logoLocal": "ch_history",
     "category": "Documentary",
-    "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_primary.mpd",
     "drm": {
-      "e2a8c7d15b9f4d6a9c101f7e3b2d8a44": "397ca914a73b1e00bc94ed9eccf9c258"
+      "3feecc36930732cbb69306dc687c6f10": "3458265f7530bf1fef204ca8cb4689db"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
     }
   },
 
@@ -533,9 +539,12 @@
     "name": "HITS",
     "logoLocal": "ch_hits",
     "category": "Entertainment",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd",
     "drm": {
-      "6d2f8a1c9b5e4c7da1f03e7b9d6c2a55": "37c9835795779f8d848a6119d3270c69"
+      "1fe92685a75844dc54c9dac124802510": "36cb2063bf5338d18d31657371b15817"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
     }
   },
 
@@ -613,7 +622,13 @@
     "name": "Moonbug",
     "logoLocal": "ch_moonbug",
     "category": "Kids",
-    "streamUrl": "https://moonbug-rokuus.amagi.tv/playlist.m3u8"
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd",
+    "drm": {
+      "e3cb7499710786eb105fab7b52459910": "8ab093adabdc343b8734b7ecf0aea11a"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
   },
 
   {
@@ -644,9 +659,12 @@
     "name": "Nickelodeon",
     "logoLocal": "ch_nickelodeon",
     "category": "Kids",
-    "streamUrl": "https://zap-live1-ott.izzigo.tv/12/out/u/dash/NICK-HD/default.mpd",
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd",
     "drm": {
-      "294848a1c20273b5546c204b117fd7fe": "47b4a3e3b2d5bbd54143a6af43268bbd"
+      "d8520e96a1283ab6e5be538474bfa810": "bda5f7bbc1e44096f779a0619fe9881f"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
     }
   },
 

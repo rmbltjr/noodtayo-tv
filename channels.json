@@ -1,4 +1,13 @@
 [
+
+  {
+    "name": "Donaire vs Masuda Live 3:30PM",
+    "logoLocal": "ch_premier_sports",
+    "category": "Sports",
+    "dateAdded": "2026-03-11",
+    "streamUrl": "http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
+  },
+  
   {
     "name": "Kapamilya Channel",
     "logoLocal": "ch_kapamilya_channel",
@@ -1513,14 +1522,6 @@
     "drm": {
       "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
     }
-  },
-
-  {
-    "name": "Donaire vs Masuda Live at 3:30 PM",
-    "logoLocal": "ch_premier_sports",
-    "category": "Sports",
-    "dateAdded": "2026-03-11",
-    "streamUrl": "http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO"
   }
 
 ]

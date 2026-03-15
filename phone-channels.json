@@ -46,6 +46,7 @@
     "name": "A2Z",
     "logo": "/images/a2z.png",
     "category": "Entertainment",
+    "dateAdded": "2026-03-11",      
     "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_a2z/default/index.mpd",
     "drm": {
       "3f6d8a2c1b7e4c9f8d52a7e1b0c6f93d": "4019f9269b9054a2b9e257b114ebbaf2"

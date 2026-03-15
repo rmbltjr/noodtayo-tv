@@ -36,6 +36,13 @@
   },
 
   {
+    "name": "Heart of Asia",
+    "logo": "https://raw.githubusercontent.com/rmbltjr/noodtayo-tv/main/images/ch_heart_of_asia.webp",
+    "category": "Entertainment",
+    "streamUrl": "https://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcyNTg1NDEyLCJleHAiOjE3NzM4ODE0MTIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3Mzg4MTQxMn0.pWBHcolaeZXd-5DAkMobbJn5DbFoSTDEWYuQn0LC5U4"
+  },
+  
+  {
     "name": "Kapatid Channel",
     "logoLocal": "ch_kapatid_channel",
     "category": "Entertainment",

@@ -425,6 +425,17 @@
   },
 
   {
+    "name": "Cartoon Network Philippines",
+    "logoLocal": "ch_cartoon_network",
+    "category": "Kids",
+    "dateAdded": "2026-03-15",    
+    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd",
+    "drm": {
+      "a2d1f552ff9541558b3296b5a932136b": "cdd48fa884dc0c3a3f85aeebca13d444"
+    }
+  },  
+
+  {
     "name": "Celestial Movies Pinoy",
     "logoLocal": "ch_celestial_movies_pinoy",
     "category": "Movies",

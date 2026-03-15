@@ -43,6 +43,13 @@
     "url": "https://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJNb29uIiwiaWF0IjoxNzcyNTg1NDEyLCJleHAiOjE3NzM4ODE0MTIsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3Mzg4MTQxMn0.pWBHcolaeZXd-5DAkMobbJn5DbFoSTDEWYuQn0LC5U4"
   },
     {
+    "name": "I Heart Movies",
+    "logo": "https://raw.githubusercontent.com/rmbltjr/noodtayo-tv/main/images/ch_i_heart_movies.webp",
+    "category": "Movies",
+    "dateAdded": "2026-03-16",
+    "url": "https://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJtb29uIiwiaWF0IjoxNzczNDk2MzU1LCJleHAiOjE3NzQ3OTIzNTUsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc3NDc5MjM1NX0.szdxGfqa4x6drXDOIvNleWaVOMnlVpztAOcNyAnvz18"
+  },
+    {
     "name": "A2Z",
     "logo": "/images/a2z.png",
     "category": "Entertainment",
@@ -57,15 +64,6 @@
     "logo": "/images/aniplus-hd.png",
     "category": "Anime",
     "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8"
-  },
-  {
-    "name": "Animax",
-    "logo": "/images/animax.png",
-    "category": "Anime",
-    "url": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/index.mpd",
-    "drm": {
-      "1e7b9d2c6a4f4d8c9f33b5c1a8d7e260": "67336c0c5b24fb4b8caac248dad3c55d"
-    }
   },
   {
     "name": "Anime x HiDive",

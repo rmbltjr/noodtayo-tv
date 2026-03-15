@@ -1278,6 +1278,20 @@
     }
   },
 
+   {
+    "name": "Celestial Classic Movies",
+    "logo": "https://raw.githubusercontent.com/rmbltjr/noodtayo-tv/main/images/ch_ccm.webp",
+    "category": "Movies",
+    "dateAdded": "2026-03-16",    
+    "streamUrl": "https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd",
+    "drm": {
+      "a642dd4bf3ea782e19202adefb604b10": "3f59355e15eed1bb219ea1687d55cfbb"
+    },
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36"
+    }
+  },
+
   {
     "name": "UFC TV",
     "logoLocal": "ch_ufc_tv",

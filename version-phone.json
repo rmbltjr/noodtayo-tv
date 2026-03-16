@@ -1,7 +1,7 @@
 {
-  "version_code": 3,
-  "version_name": "3.0",
-  "apk_url": "https://download.noodtayo.tv/NoodTayoAppv3.apk",
-  "release_notes": "Added a zoom toggle button in fullscreen player. You can now set it in Fit, Fill, or Stretch.\n\nLocked fullscreen to landscape. It won't auto-rotate to portrait now.",
+  "version_code": 4,
+  "version_name": "4.0",
+  "apk_url": "https://download.noodtayo.tv/NoodTayoAppv4.apk",
+  "release_notes": "You can now enable or disable auto-rotate in Settings.",
   "website_url": "https://noodtayo.tv/download"
 }

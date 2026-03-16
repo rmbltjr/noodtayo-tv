@@ -1292,25 +1292,12 @@
     }
   },
 
-  {
-    "name": "UFC TV",
-    "logoLocal": "ch_ufc_tv",
+   {
+    "name": "ESPN",
+    "logo": "https://raw.githubusercontent.com/rmbltjr/noodtayo-tv/main/images/ch_espn.webp"",
     "category": "Sports",
-    "streamUrl": "https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8"
-  },
-
-  {
-    "name": "FIFA+",
-    "logoLocal": "ch_fifa_plus",
-    "category": "Sports",
-    "streamUrl": "https://ca333c39.wurl.com/v1/sysdata_s_p_a_fifa_6/ohlscdn_us/latest/main/hls/playlist.m3u8"
-  },
-
-  {
-    "name": "Tennis+",
-    "logoLocal": "ch_tennis_plus",
-    "category": "Sports",
-    "streamUrl": "https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8"
+    "dateAdded": "2026-03-16",
+    "streamUrl": "http://nor1live.win/livehttpplay?channel_id=23120"
   },
 
     {
@@ -1435,6 +1422,27 @@
     "streamUrl": "https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8"
   },
 
+   {
+    "name": "UFC TV",
+    "logoLocal": "ch_ufc_tv",
+    "category": "Sports",
+    "streamUrl": "https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8"
+  },
+
+  {
+    "name": "FIFA+",
+    "logoLocal": "ch_fifa_plus",
+    "category": "Sports",
+    "streamUrl": "https://ca333c39.wurl.com/v1/sysdata_s_p_a_fifa_6/ohlscdn_us/latest/main/hls/playlist.m3u8"
+  },
+
+  {
+    "name": "Tennis+",
+    "logoLocal": "ch_tennis_plus",
+    "category": "Sports",
+    "streamUrl": "https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8"
+  },
+
   {
     "name": "Pilipinas Live 1",
     "logoLocal": "ch_pilipinas_live",
@@ -1533,13 +1541,6 @@
     "drm": {
       "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
     }
-  },
-
-  {
-    "name": ".",
-    "logoLocal": "",
-    "category": "Sports",    
-    "streamUrl": "http://nor1live.win/livehttpplay?channel_id=23120"
   }
 
 ]

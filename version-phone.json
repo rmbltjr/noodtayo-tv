@@ -1,7 +1,7 @@
 {
-  "version_code": 5,
-  "version_name": "5.0",
-  "apk_url": "https://download.noodtayo.tv/NoodTayoAppv5.apk",
-  "release_notes": "You can now enable or disable auto-rotate in Settings.\n\nFew features enhancements.",
+  "version_code": 6,
+  "version_name": "6.0",
+  "apk_url": "https://download.noodtayo.tv/NoodTayoAppv6.apk",
+  "release_notes": "Bug fixes and improvements.",
   "website_url": "https://noodtayo.tv/download"
 }

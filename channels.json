@@ -110,7 +110,7 @@
     "name": "HBO Hits",
     "logoLocal": "ch_hbo_hits",
     "category": "Movies",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd",
     "drm": {
       "b04ae8017b5b4601a5a0c9060f6d5b7d": "a8795f3bdb8a4778b7e888ee484cc7a1"
     }
@@ -120,7 +120,7 @@
     "name": "HBO Family",
     "logoLocal": "ch_hbo_family",
     "category": "Movies",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbofam/default/index.mpd",
     "drm": {
       "872910c843294319800d85f9a0940607": "f79fd895b79c590708cf5e8b5c6263be"
     }
@@ -545,7 +545,7 @@
     "name": "HBO Signature",
     "logoLocal": "ch_hbo_signature",
     "category": "Movies",
-    "streamUrl": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd",
+    "streamUrl": "https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbosign/default/index.mpd",
     "drm": {
       "a06ca6c275744151895762e0346380f5": "559da1b63eec77b5a942018f14d3f56f"
     }
@@ -1540,6 +1540,26 @@
     "streamUrl": "https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd",
     "drm": {
       "63055a8904644407a64a57874703f71e": "0fd611777d37a7ff8afce19d9cee2e91"
+    }
+  },
+
+   {
+    "name": ".",
+    "logoLocal": "",
+    "category": "Sports",
+    "streamUrl": "https://absp-live.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd",
+    "drm": {
+      "7b5d15a7385546768aca9fd505ad5e16": "f534393c84c1a9c17fa36bc3a4380981"
+    }
+  },
+
+    {
+    "name": "..",
+    "logoLocal": "",
+    "category": "Sports",
+    "streamUrl": "https://absp-live.akamaized.net/dash/live/2099522/gnews3/manifest.mpd",
+    "drm": {
+      "d5d848730e4a4f9b962290039dd2b96b": "c959dc12f1bff5a66d030117fb7e9855"
     }
   }
 

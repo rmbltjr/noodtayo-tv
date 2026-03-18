@@ -2,6 +2,6 @@
   "version_code": 8,
   "version_name": "8.0",
   "apk_url": "https://download.noodtayo.tv/NoodTayoAppv8.apk",
-  "release_notes": "Uninstall your current app to install this one. Click 'Visit Website' to download the new version.",
+  "release_notes": "1. Click 'Visit Website' to download the new version (make sure it's NoodTayoAppv8).\n2. Uninstall this app.\n3. Install the new downloaded app.",
   "website_url": "https://noodtayo.tv/download"
 }

@@ -1,6 +1,7 @@
 {
   "version_code": 8,
   "version_name": "8.0",
-  "release_notes": "Click 'Visit Website' to download the new version.",
+  "apk_url": "https://noodtayo.tv/download",
+  "release_notes": "Click 'Visit Website' to download the new version.\n\nDO NOT CLICK 'Download Now' dahil mag-e-error sa pag-install.",
   "website_url": "https://noodtayo.tv/download"
 }
